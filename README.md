@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshay8178
-- 👀 I’m interested in Web development
-- 🌱 I’m currently Working on MERN stack
-- 💞️ I’m looking to collaborate on Web projects
+- 👀 I’m a part Salesforce ecosystem.
+- 🌱 I’m currently Working on Salesforce projects.
+- 💞️ I’m looking to collaborate on any Salesforce projects
 - 📫 How to reach me mail to Akshayaggarwal139@gmail.com
 
 <!---
